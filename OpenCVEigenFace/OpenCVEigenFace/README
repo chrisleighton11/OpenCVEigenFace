@@ -1,0 +1,7 @@
+EigenFace results
+March 10th 2011
+
+
+Database:
+	database was trained with 20 of 40m faces from the Cambridge database
+        For the 20 people, images 1-4 and 6-10 were used during training, image 5 was left to use as a search target.
